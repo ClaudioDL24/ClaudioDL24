@@ -1,16 +1,20 @@
-# Hola 👋, soy Claudio Merino F.
+# Hola 👋, soy Claudio Merino F., Gerente General de CMF Solutions SpA, una empresa experta en el ecosistema de SAP Business One.
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+📊 Contador Auditor e Ingeniero Comercial con una sólida trayectoria en administración y gestión empresarial.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+💻 Actualmente, estoy en proceso de estudio y desarrollo de aplicaciones full stack Python Trainee.
+
+🚀 Me apasiona brindar soluciones innovadoras a problemas de administración y gestión en empresas.
+
+📬 Puedes contactarme por correo electrónico a cmerino@cmfsolutions.cl.
 
 Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
+- Puedes contactarme a través de mi correo electrónico: **<cmerino@cmfsolutions.cl>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes visitar mi  empresa **[sitio web](https://cmfsolutions.cl)**
 
 ### 🎨 Frontend
 
