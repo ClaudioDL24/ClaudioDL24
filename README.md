@@ -7,8 +7,6 @@
 🚀 Me apasiona brindar soluciones innovadoras a problemas de administración y gestión en empresas.
 
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
-
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<cmerino@cmfsolutions.cl>**
