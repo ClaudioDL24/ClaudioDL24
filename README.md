@@ -2,18 +2,17 @@
 
 📊 Contador Auditor e Ingeniero Comercial con una sólida trayectoria en administración y gestión empresarial y eenfocado en el ecosistema SAP Business One como consultor experto.
 
-💻 Actualmente, estoy en proceso de estudio y desarrollo de aplicaciones full stack Python Trainee.
+💻 Actualmente, Estudiante en Desarrollo Full Stack Python | Desafío Latam - Talento Digital.
 
 🚀 Me apasiona brindar soluciones innovadoras a problemas de administración y gestión en empresas.
 
-📬 Puedes contactarme por correo electrónico a cmerino@cmfsolutions.cl.
 
 Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<cmerino@cmfsolutions.cl>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/claudio-merino-999bb5297/)**
 - Puedes visitar mi  empresa **[sitio web](https://cmfsolutions.cl)**
 
 ### 🎨 Frontend
