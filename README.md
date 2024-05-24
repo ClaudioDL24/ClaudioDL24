@@ -1,6 +1,6 @@
 # Hola 👋, soy Claudio Merino F., Gerente General de CMF Solutions SpA.
 
-📊 Contador Auditor e Ingeniero Comercial con una sólida trayectoria en administración y gestión empresarial y eenfocado en el ecosistema SAP Business One como consultor experto.
+📊 Contador Auditor e Ingeniero Comercial con una sólida trayectoria en administración y gestión empresarial y enfocado en el ecosistema SAP Business One como consultor experto.
 
 💻 Actualmente, Estudiante en Desarrollo Full Stack Python | Desafío Latam - Talento Digital.
 
